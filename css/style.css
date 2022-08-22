@@ -3,14 +3,3 @@
     padding: 0;
     background-color: rgb(53, 53, 113);
 }
-.card-img-overlay {
-    text-align: right;
-    color: black;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: var(--bs-card-img-overlay-padding);
-    border-radius: var(--bs-card-inner-border-radius);
-}
