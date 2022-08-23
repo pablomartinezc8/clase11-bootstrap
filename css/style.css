@@ -5,14 +5,3 @@
 body{
     background-color: rgb(21, 21, 26);
 }
-.card-img-overlay {
-    text-align: right;
-    color: black;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: var(--bs-card-img-overlay-padding);
-    border-radius: var(--bs-card-inner-border-radius);
-}
