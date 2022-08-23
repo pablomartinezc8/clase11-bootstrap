@@ -14,5 +14,6 @@ img, svg {
     vertical-align: middle;
 }
 .colorNav{
+    color: rgb(43, 43, 69);
     background-color: rgb(25, 25, 61);
 }
