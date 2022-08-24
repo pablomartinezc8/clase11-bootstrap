@@ -20,3 +20,7 @@ img, svg {
 .imagenesCards{
     margin: 20px;
 }
+body{
+    color: #f7f8f9;
+    background-color: #020a0c;
+}
