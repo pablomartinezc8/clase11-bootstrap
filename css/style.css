@@ -30,6 +30,7 @@ h2 {
     text-align: center;
 }
 .colorBoton{
-    color: aliceblue;
-    border-color: yellowgreen;
+    color: black;
+    background-color: aliceblue;
+    border-color: rgb(241, 249, 0);
 }
