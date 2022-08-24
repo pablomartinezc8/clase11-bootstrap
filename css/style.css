@@ -6,7 +6,7 @@
 .tituloUno{
     text-align: center;
     font-size: 32px;
-    color: rgb(12, 12, 12);
+    color: rgb(245, 238, 238);
 
 }
 img, svg {
@@ -22,5 +22,8 @@ img, svg {
 }
 body{
     color: #f7f8f9;
-    background-color: #020a0c;
+    background-color: rgb(8, 8, 9);
+}
+.cards{
+background-color: rgb(25, 25, 61);
 }
