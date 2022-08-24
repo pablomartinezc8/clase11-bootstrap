@@ -24,6 +24,7 @@ body{
     color: #f7f8f9;
     background-color: rgb(8, 8, 9);
 }
-.cards{
-background-color: rgb(25, 25, 61);
+.colorN{
+    color: black;
+    background-color: rgb(25, 25, 61);
 }
