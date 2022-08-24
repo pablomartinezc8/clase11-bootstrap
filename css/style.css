@@ -29,3 +29,7 @@ h2 {
     margin: 20px;
     text-align: center;
 }
+.colorBoton{
+    color: aliceblue;
+    border-color: yellowgreen;
+}
