@@ -52,4 +52,6 @@ h1{
     justify-content: space-around;
 }
 .card-body {
-    --bs-card-bg: rgb(14, 1, 1);}
+    --bs-card-bg: rgb(14, 1, 1);
+    --bs-card-border-color: #0dcaf0;
+}
