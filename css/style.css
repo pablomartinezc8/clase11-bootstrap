@@ -51,3 +51,4 @@ h1{
     display: flex;
     justify-content: space-around;
 }
+.card{--bs-card-bg: rgb(14, 1, 1);}
