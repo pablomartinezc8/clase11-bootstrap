@@ -47,3 +47,6 @@ h1{
 .list-group{
     --bs-list-group-bg: #4969a1;
 }
+.sectionImg{
+    display: contents;
+}
