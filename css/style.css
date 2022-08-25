@@ -45,5 +45,5 @@ h1{
     height: auto;
 }
 .list-group{
-    background-color: hsl(240, 55%, 20%);
+    --bs-list-group-bg: #4969a1;
 }
