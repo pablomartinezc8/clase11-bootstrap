@@ -47,6 +47,7 @@ h1{
 .list-group{
     --bs-list-group-bg: #4969a1;
 }
-.sectionImg{
+.sectionImg {
     display: flex;
+    justify-content: space-around;
 }
